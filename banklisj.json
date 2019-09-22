@@ -1,8 +1,32 @@
-{
-  "http": {
-    "routePrefix": "api"
+[
+  {
+    "name": "AGRANI",
+    "rate": "6.5",
+    "bank_url": "website"
   },
-  "swagger": {
-    "enabled": true
+  {
+    "name": "BASIC",
+    "rate": "6.5",
+    "bank_url": "website"
+  },
+  {
+    "name": "BDBL",
+    "rate": "6.5",
+    "bank_url": "website"
+  },
+  {
+    "name": "JANATA",
+    "rate": "6.5",
+    "bank_url": "website"
+  },
+  {
+    "name": "RUPALI",
+    "rate": "6.5",
+    "bank_url": "website"
+  },
+  {
+    "name": "SONALI",
+    "rate": "6.5",
+    "bank_url": "website"
   }
-}
+]
